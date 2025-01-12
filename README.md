@@ -1,1 +1,1 @@
-This repository holds my projects for System Engineering Devops
+Getting Started with Bash Scripting
